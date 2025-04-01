@@ -1,0 +1,15 @@
+{
+  "name": "crud-de-estudiantes-parte2",
+  "version": "1.0.0",
+  "description": "Segunda parte del crud de estudiantes",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Santana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
